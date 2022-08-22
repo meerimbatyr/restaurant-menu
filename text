@@ -1,0 +1,8 @@
+const extra = {
+  id: 10,
+  name: "Steak Dinner",
+  category: "dinner",
+  price: 39.99,
+  img: "https://vanilla-js-basic-project-8-menu.netlify.app/images/item-10.jpeg",
+  desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+};
